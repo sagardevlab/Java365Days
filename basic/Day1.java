@@ -1,6 +1,6 @@
 package Java365Days;
 
-public class day1 {
+public class Day1 {
     public static void main(String[] args){
 
         //print a string in java

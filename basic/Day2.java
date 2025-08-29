@@ -1,7 +1,7 @@
 package Java365Days;
 import java.util.List;
 
-public class day2 {
+public class Day2 {
     public static void main(String[] args){
 
         // Store a list inside var 
